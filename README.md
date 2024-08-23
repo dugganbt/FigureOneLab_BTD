@@ -22,9 +22,11 @@ However, interrogation of cellular programs at the mRNA level represents just on
 
 
 ### _Subcomponent 2._ Model used: What aspects of the diseases do the cell lines recapitulate, and what limitations do they bring? What further studies would need to support this data?
-
+Immortalized cancer cell lines find prominent use within pharmaceutical research due to their ease-of-use, high level of characterization and availability of a multitude of clones, at relatively low-cost. Nevertheless, the use of cell lines should consider their potential drawbacks and applicability within the desired context. Given that cell lines are frequently cultured in simplified settings such as in 2D flasks using standardized media lacking tumor-specific microenvironment components, it is important to verify that findings used in cell line research is translatable to the clinic. Studies addressing this question have been reviewed [6], and systematic benchmarking has been performed to guide the choice of relevant cell lines for a desired context-of-use [7]. 
 
 ### _Subcomponent 3._ Drugs and targets: What are the mechanisms of action for the conventional use-cases of the drugs, and how could this be expanded to additional cancers?
+
+_To be continued_
 
 
 ### References
@@ -37,3 +39,7 @@ However, interrogation of cellular programs at the mRNA level represents just on
 [4] Jerby-Arnon, L., Regev, A. DIALOGUE maps multicellular programs in tissue from single-cell or spatial transcriptomics data. Nat Biotechnol 40, 1467–1477 (2022). https://doi.org/10.1038/s41587-022-01288-0
 
 [5] Matilde I. Conte, Azahara Fuentes-Trillo et al. Opportunities and tradeoffs in single-cell transcriptomic technologies. Trends in Genetics, 40, 1, 1 (2024). https://doi.org/10.1016/j.tig.2023.10.003.
+
+[6] Lucia Trastulla, Javad Noorbakhsh et al. Computational estimation of quality and clinical relevance of cancer cell lines. Molecular Systems Biology, 18, 7, 7 2022
+
+[7] Jin, H., Zhang, C., Zwahlen, M. et al. Systematic transcriptional analysis of human cell lines for gene expression landscape and tumor representation. Nat Commun 14, 5417 (2023). https://doi.org/10.1038/s41467-023-41132-w
