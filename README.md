@@ -13,6 +13,7 @@ KSQ from the case-study:
 To paraphrase: _we want to evaluate the potential use of Trastuzumab and Bevacizumab for additional cancer treatments beyond their approved regimens using publicly available scRNA-seq data from cell lines._
 
 ### _Subcomponent 1._ Methodology used: How is scRNA-seq data used to assess cancer therapy? Advantages and limitations?
+Single-cell RNA sequencing (scRNA-seq) probes gene expression on the level of individual cells, allowing us to obtain a snapshot of the dynamic operations of a cell within the context of it's tissue. This data can be leveraged to study responses to therapeutics across experimental designs, or patient populations, and provide high-resolution mechanistic insight [1]. 
 
 
 ### _Subcomponent 2._ Model used: What aspects of the diseases do the cell lines recapitulate, and what limitations do they bring? What further studies would need to support this data?
@@ -22,4 +23,4 @@ To paraphrase: _we want to evaluate the potential use of Trastuzumab and Bevaciz
 
 ### References
 [1] Heumos, L., Schaar, A.C., Lance, C. et al. Best practices for single-cell analysis across modalities. Nat Rev Genet (2023). https://doi.org/10.1038/s41576-023-00586-w
-[2] 
+
