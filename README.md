@@ -33,7 +33,9 @@ More recently, VEGF-A has been associated with non-angiogenic mechanisms of canc
 
 
 #### Trastuzumab (Herceptin)
-Trastuzumab is also a monoclonal antibody and is specificallly used for the treatment of HER-2 positive breast cancers [9]. It acts by binding HER-2, a tyrosine kinase receptor overexpressed on HER-2 positive breast cancer cells thereby inhibiting HER-2 signalling pathway that promotes disease progression, as well as by recruiting immune cells by antibody-dependent cell-mediated cytotoxicity [9]. 
+Trastuzumab is also a monoclonal antibody and is specificallly used for the treatment of HER-2 positive breast and gastric cancers [9, 10]. It acts by binding HER-2, a tyrosine kinase receptor overexpressed on HER-2 positive breast cancer cells thereby inhibiting HER-2 signalling pathway that promotes disease progression, as well as by recruiting immune cells by antibody-dependent cell-mediated cytotoxicity [9]. 
+
+Trastuzumab, or viariations and combinations of it's targeting mechanism, have been expanded onto other solid cancer types with varying success. Additionally, resistance mechanisms such as HER-2 alterations that limit drug binding or constitutive expression of downstream pathways have posed a challenge for treatments [10]. 
 
 _To be continued_
 
@@ -56,3 +58,5 @@ _To be continued_
 [8] Josep Garcia, Herbert I. Hurwitz et al. Cancer Treatment Reviews, 86, 6 (2020). Anti-tumour Treatment Bevacizumab (Avastin®) in cancer treatment: A review of 15 years of clinical experience and future outlook. https://doi.org/10.1016/j.ctrv.2020.102017.
 
 [9] Swain, S.M., Shastry, M. & Hamilton, E. Targeting HER2-positive breast cancer: advances and future directions. Nat Rev Drug Discov 22, 101–126 (2023). https://doi.org/10.1038/s41573-022-00579-0
+
+[10] Yoon, J., Oh, DY. HER2-targeted therapies beyond breast cancer — an update. Nat Rev Clin Oncol 21, 675–700 (2024). https://doi.org/10.1038/s41571-024-00924-9
