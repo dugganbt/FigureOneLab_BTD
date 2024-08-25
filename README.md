@@ -1,5 +1,7 @@
 # FigureOneLab_BTD
-This repository is a bioinformatic analysis case study, following the Figure One Lab guide by Dean Lee. **__Disclaimer__**: This repository is an exercise in performing a bioinformatic analysis and is not intended as a reference. Please refer to the listed publications for peer reviewed literature. 
+In this repository, I perform a bioinformatic case study following the Figure One Lab guide by Dean Lee. 
+
+**__Disclaimer__**: This repository is an exercise in performing a bioinformatic analysis and is not intended as a reference. Please refer to the listed publications for peer reviewed literature. 
 
 ## Background
 This project follows a guided bioinformatic analysis based on public data and the Figure One Lab guide by Dean Lee. The project addresses the use of antibody two antibody therapies:
