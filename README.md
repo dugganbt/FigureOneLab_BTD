@@ -26,11 +26,14 @@ Immortalized cancer cell lines find prominent use within pharmaceutical research
 
 ### _Subcomponent 3._ Drugs and targets: What are the mechanisms of action for the conventional use-cases of the drugs, and how could this be expanded to additional cancers?
 
-#### Bevacizumab (Avastatin)
+#### Bevacizumab (Avastin)
 Bevacizumab is a monoclonal antibody conventionally used to treat angiogenic solid cancers such as metastatic colorecal cancer, metastatic breast cancer, ovarian cancer, non-small-cell lung cancer, and glioblastoma multiforme [8]. Specifically, it binds soluble Vasculare Endothelial Growth Factor A (VEGF-A), which is primarly expressed during embryogenesis, during wound healing or during the female reproductive cycle to promote growth of new blood vessels from existing vasculature. Some angiogenic cancers express high levels of VEGF-A to increase their oxygen and nutrient supply to support their increasing metabolic demands as they expand [8]. 
 
 More recently, VEGF-A has been associated with non-angiogenic mechanisms of cancer progression such as increasing cancer cell proliferation, stem cell ness, and suppressing immune cells. As a consequence, Bevacizumab has also found application in enhancement of cancer immunotherapy efficacy [8]. 
 
+
+#### Trastuzumab (Herceptin)
+Trastuzumab is also a monoclonal antibody and is specificallly used for the treatment of HER-2 positive breast cancers [9]. It acts by binding HER-2, a tyrosine kinase receptor overexpressed on HER-2 positive breast cancer cells thereby inhibiting HER-2 signalling pathway that promotes disease progression, as well as by recruiting immune cells by antibody-dependent cell-mediated cytotoxicity [9]. 
 
 _To be continued_
 
@@ -51,3 +54,5 @@ _To be continued_
 [7] Jin, H., Zhang, C., Zwahlen, M. et al. Systematic transcriptional analysis of human cell lines for gene expression landscape and tumor representation. Nat Commun 14, 5417 (2023). https://doi.org/10.1038/s41467-023-41132-w.
 
 [8] Josep Garcia, Herbert I. Hurwitz et al. Cancer Treatment Reviews, 86, 6 (2020). Anti-tumour Treatment Bevacizumab (Avastin®) in cancer treatment: A review of 15 years of clinical experience and future outlook. https://doi.org/10.1016/j.ctrv.2020.102017.
+
+[9] Swain, S.M., Shastry, M. & Hamilton, E. Targeting HER2-positive breast cancer: advances and future directions. Nat Rev Drug Discov 22, 101–126 (2023). https://doi.org/10.1038/s41573-022-00579-0
