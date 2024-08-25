@@ -6,6 +6,10 @@ This project follows a guided bioinformatic analysis based on public data and th
 1. Trastuzumab for treatment of HER2-positive breast and gastric cancers, targets HER2
 2. Bevacizumab for treatment of colorectal, lung, glioblastoma, breast, liver and kidney cancer, targets VEGF.
 
+## Aim
+The aim of this section is to write a "memo" that summarizes the key scientific question, as well as the relevant literature into a concise overview of the problem. This memo can then be revisited to have a clear direction of the workflow throughout the case-study.
+
+
 ## Breaking down the Key Scientific Question (KSQ)
 KSQ from the case-study: 
 >"Using available scRNA-seq data from cancer cell lines, how would you explore the use of the following FDA-approved antibody therapies in additional cancers?" 
@@ -37,7 +41,9 @@ Trastuzumab is also a monoclonal antibody and is specificallly used for the trea
 
 Trastuzumab, or viariations and combinations of it's targeting mechanism, have been expanded onto other solid cancer types with varying success. Additionally, resistance mechanisms such as HER-2 alterations that limit drug binding or constitutive expression of downstream pathways have posed a challenge for treatments [10]. 
 
-_To be continued_
+
+## Conclusion
+Using scRNA-seq and available data of treatment outcomes _in vitro_ and in patients, we can gain insights into operational expression patterns that characterize responsive cancer cell types to both Bevacizumab and Trastuzumab. We can then use this information to try to identify similar patterns in other cancer types and propose/predict potential treatment outcomes using these therapies. Throughout the study, we will also address potential limitations of merely assessing mRNA in isolation, which likely does not capture the full biological complexity, as well as the use of cell lines whose phenotype could differ from the _in vivo_ disease phenotype. 
 
 
 ### References
