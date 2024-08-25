@@ -26,6 +26,12 @@ Immortalized cancer cell lines find prominent use within pharmaceutical research
 
 ### _Subcomponent 3._ Drugs and targets: What are the mechanisms of action for the conventional use-cases of the drugs, and how could this be expanded to additional cancers?
 
+#### Bevacizumab (Avastatin)
+Bevacizumab is a monoclonal antibody conventionally used to treat angiogenic solid cancers such as metastatic colorecal cancer, metastatic breast cancer, ovarian cancer, non-small-cell lung cancer, and glioblastoma multiforme [8]. Specifically, it binds soluble Vasculare Endothelial Growth Factor A (VEGF-A), which is primarly expressed during embryogenesis, during wound healing or during the female reproductive cycle to promote growth of new blood vessels from existing vasculature. Some angiogenic cancers express high levels of VEGF-A to increase their oxygen and nutrient supply to support their increasing metabolic demands as they expand [8]. 
+
+More recently, VEGF-A has been associated with non-angiogenic mechanisms of cancer progression such as increasing cancer cell proliferation, stem cell ness, and suppressing immune cells. As a consequence, Bevacizumab has also found application in enhancement of cancer immunotherapy efficacy [8]. 
+
+
 _To be continued_
 
 
@@ -42,4 +48,6 @@ _To be continued_
 
 [6] Lucia Trastulla, Javad Noorbakhsh et al. Computational estimation of quality and clinical relevance of cancer cell lines. Molecular Systems Biology, 18, 7, 7 2022
 
-[7] Jin, H., Zhang, C., Zwahlen, M. et al. Systematic transcriptional analysis of human cell lines for gene expression landscape and tumor representation. Nat Commun 14, 5417 (2023). https://doi.org/10.1038/s41467-023-41132-w
+[7] Jin, H., Zhang, C., Zwahlen, M. et al. Systematic transcriptional analysis of human cell lines for gene expression landscape and tumor representation. Nat Commun 14, 5417 (2023). https://doi.org/10.1038/s41467-023-41132-w.
+
+[8] Josep Garcia, Herbert I. Hurwitz et al. Cancer Treatment Reviews, 86, 6 (2020). Anti-tumour Treatment Bevacizumab (Avastin®) in cancer treatment: A review of 15 years of clinical experience and future outlook. https://doi.org/10.1016/j.ctrv.2020.102017.
