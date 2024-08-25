@@ -1,5 +1,5 @@
 # FigureOneLab_BTD
-In this repository, I perform a bioinformatic case study following the Figure One Lab guide by Dean Lee. 
+In this repository, I perform a bioinformatic case study following the [Figure One Lab guide by Dean Lee](https://www.linkedin.com/newsletters/figure-one-lab-7215418478743166979/). 
 
 **__Disclaimer__**: This repository is an exercise in performing a bioinformatic analysis and is not intended as a reference. Please refer to the listed publications for peer-reviewed literature. 
 
